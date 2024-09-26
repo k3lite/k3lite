@@ -1,7 +1,6 @@
 - 👋 Hi, it's @k3lite
 - 👀 Keeping the ESC spirit alive! www.endsummercamp.org @endsummercamp
-- 🌱 I’m currently learning to "speak" python!
-- 💞️ I’m looking to collaborate on transforming free alcohol into another form of energy
+- 🌱 I’m currently getting from Copilot good code for use!
+- 💞️ I can transform free alcohol into another form of energy
 - 📫 How to reach me: k3li7e+github@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am also on github!
