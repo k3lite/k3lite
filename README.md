@@ -1,0 +1,7 @@
+- 👋 Hi, it's @k3lite
+- 👀 I’m interested in keeping the ESC spirit alive! www.endsummercamp.org
+- 🌱 I’m currently learning to "speak" python!
+- 💞️ I’m looking to collaborate on transforming free alcohol in another form of energy
+- 📫 How to reach me: k3li7e@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I am also on github!
